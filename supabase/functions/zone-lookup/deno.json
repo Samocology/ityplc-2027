@@ -1,0 +1,5 @@
+{
+  "name": "zone-lookup",
+  "version": "1.0.0",
+  "entrypoint": "index.ts"
+}

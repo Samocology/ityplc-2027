@@ -1,0 +1,8 @@
+{
+  "name": "send-auth-email",
+  "version": "1.0.0",
+  "entrypoint": "index.ts",
+  "imports": {
+    "https://deno.land/std@0.223.0/": "https://deno.land/std@0.223.0/"
+  }
+}
