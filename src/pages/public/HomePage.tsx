@@ -265,7 +265,7 @@ export function HomePage() {
             </p>
           </div>
 
-          <div className="mt-12 grid gap-4 md:grid-cols-3">
+          <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {highlights.map((item) => {
               const Icon = item.icon;
 
